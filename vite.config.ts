@@ -5,6 +5,8 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    // Menambahkan base path agar aset terbaca dengan benar di GitHub Pages
+    base: '/BAB-1-50/', 
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
