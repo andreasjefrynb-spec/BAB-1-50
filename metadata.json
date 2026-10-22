@@ -2,5 +2,7 @@
   "name": "Kuis Kotoba Minna no Nihongo Bab 1-50",
   "description": "Aplikasi kuis interaktif dan editor materi kosakata bahasa Jepang Minna no Nihongo Bab 1–50 lengkap dengan timer, audio pengucapan, dan laporan WhatsApp.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }

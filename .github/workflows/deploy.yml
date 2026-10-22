@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - utama
+      - main
+      - master
+  workflow_dispatch:
 
 permissions:
   contents: read
